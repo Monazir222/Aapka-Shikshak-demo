@@ -1,5 +1,5 @@
-# hotel-management
+# Aapka-Shikshak
 <br>
-This is my Hote-Management project git repository.
+This is my Aapka-Shikshak project git repository.
 <br>
 Author - Md Monazir Alam
